@@ -50,4 +50,4 @@ Non-inverting amplifier:
 
 
 ## RESULT:
-<img width="808" height="1280" alt="image" src="https://github.com/user-attachments/assets/f10f5677-8702-400f-87bb-0707ac587e83" />
+Thus the design and construct a non-inverting amplifier is tested successfully.
